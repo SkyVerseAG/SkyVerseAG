@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Akash Ghinmine
+- 👀 I’m interested in anything that has to do something with Data and Programming.
+- 🌱 I’m currently learning Microsoft Fabric
+- 💞️ I’m looking to collaborate on Microsoft Power BI Projects
+- 📫 How to reach me - Email - akashghinmine98@outlook.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: What we think cannot be replaced by AI is already under consideration.
